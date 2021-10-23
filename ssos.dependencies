@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "vendor_xiaomi_violet",
+    "target": "vendor/xiaomi/violet",
+    "branch": "eleven",
+    "remote": "Yasin-hubLOL"
+  },
+  {
+    "repository": "kernel_xiaomi_violet",
+    "target": "kernel/xiaomi/violet",
+    "branch": "LA.UM.9.1.r1-11100-SMxxx0.0",
+    "remote": "SuperiorOS-Devices"
+  }
+]
