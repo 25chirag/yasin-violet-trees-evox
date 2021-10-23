@@ -9,12 +9,12 @@
 $(call inherit-product, device/xiaomi/violet/device.mk)
 
 # Inherit some common EvolutionX stuff.
-$(call inherit-product, vendor/evolution/config/common_full_phone.mk)
+$(call inherit-product, vendor/ssos/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := evolution_violet
+PRODUCT_NAME := ssos_violet
 PRODUCT_DEVICE := violet
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 7 Pro
@@ -26,6 +26,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Evolution Offical Stuffs.
-EVO_SUPPORT_URL := https://t.me/EvolutionXViolet
-BUILD_USERNAME := Yasin
-BUILD_HOSTNAME := Evolution-X
+SSOS_SUPPORT_URL := https://t.me/kthnxbyeeee
+BUILD_USERNAME := Chirag
+BUILD_HOSTNAME := Shapeshift-Os
