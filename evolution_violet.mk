@@ -27,5 +27,5 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Evolution Offical Stuffs.
 EVO_SUPPORT_URL := https://t.me/EvolutionXViolet
-BUILD_USERNAME := Yasin
+BUILD_USERNAME := Chirag
 BUILD_HOSTNAME := Evolution-X
